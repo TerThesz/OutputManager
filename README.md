@@ -11,7 +11,7 @@ OutputManager is a simple library managing simple console output
   ConsoleOutput.WriteLine(string message);
     - Output: 
     
-      ```csharp
+      ```
       //. . .
       $"({System.DateTime.Now.ToString("hh:MM:ss")}) "
       //. . .
