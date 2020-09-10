@@ -42,5 +42,5 @@ paket add OutputManager --version 1.0.0
 
 ## Documentation
 
-Documentation is available at http://octokitnet.readthedocs.io/en/latest/.
+Documentation is available at https://github.com/TerThesz/OutputManager/wiki.
 
