@@ -13,25 +13,25 @@ OutputManager.WriteLine_Status("Test Error Message", true);
 
 ## Getting Started
 
-######Package Manager:
+###### Package Manager:
 
 ```
 Install-Package OutputManager -Version 1.0.0
 ```
 
-######.NET CLI:
+###### .NET CLI:
 
 ```
 dotnet add package OutputManager --version 1.0.0
 ```
 
-######PackageReference:
+###### PackageReference:
 
 ```
 <PackageReference Include="OutputManager" Version="1.0.0" />
 ```
 
-######Package CLI:
+###### Package CLI:
 
 ```
 paket add OutputManager --version 1.0.0
