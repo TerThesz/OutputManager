@@ -1,45 +1,40 @@
-# Octokit - GitHub API Client Library for .NET 
+# OutputManager library for .Net
 
-![Build status](https://github.com/octokit/octokit.net/workflows/CI%20Build/badge.svg)
-[![Build status](https://ci.appveyor.com/api/projects/status/cego2g42yw26th26/branch/master?svg=true)](https://ci.appveyor.com/project/github-windows/octokit-net/branch/master)
-[![codecov](https://codecov.io/gh/octokit/octokit.net/branch/master/graph/badge.svg)](https://codecov.io/gh/octokit/octokit.net)
-[![Join the chat at https://gitter.im/octokit/octokit.net](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/octokit/octokit.net?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![NuGet](http://img.shields.io/nuget/v/Octokit.svg)](https://www.nuget.org/packages/Octokit)
-[![NuGet](http://img.shields.io/nuget/v/Octokit.Reactive.svg)](https://www.nuget.org/packages/Octokit.Reactive)
-
-![logo](octokit-dotnet_2.png)
-
-Octokit is a client library targeting .NET Framework 4.5+ and .NET Standard 1+
-and above that provides an easy way to interact with the
-[GitHub API](http://developer.github.com/v3/).
+OutputManager is a simple library managing the look of the console output.
 
 ## Usage examples
 
-Get public info on a specific user.
+Display an error.
 
 ```c#
-var github = new GitHubClient(new ProductHeaderValue("MyAmazingApp"));
-var user = await github.User.Get("half-ogre");
-Console.WriteLine(user.Followers + " folks love the half ogre!");
+OutputManager om = new OutputManager();
+OutputManager.WriteLine_Status("Test Error Message", true);
 ```
-
-## Supported Platforms
-
-* .NET 4.6 (Desktop / Server) or greater
-* [.NET Standard 2.0](https://docs.microsoft.com/en-us/dotnet/standard/net-standard) or greater
 
 ## Getting Started
 
-Octokit is a GitHub API client library for .NET and is available on NuGet:
+Package Manager:
 
 ```
-Install-Package Octokit
+Install-Package OutputManager -Version 1.0.0
 ```
 
-There is also an IObservable based GitHub API client library for .NET using Reactive Extensions:
+.NET CLI:
 
 ```
-Install-Package Octokit.Reactive
+dotnet add package OutputManager --version 1.0.0
+```
+
+PackageReference:
+
+```
+<PackageReference Include="OutputManager" Version="1.0.0" />
+```
+
+Package CLI:
+
+```
+paket add OutputManager --version 1.0.0
 ```
 
 
