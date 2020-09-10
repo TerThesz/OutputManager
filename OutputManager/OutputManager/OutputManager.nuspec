@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>OutputManager</title>
+    <authors>TerThesz</authors>
+    <owners>TerThesz</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>https://github.com/TerThesz/OutputManager_Package</projectUrl>
+    <description>Simple library managing console output</description>
+    <releaseNotes>Output Manager - First Beta Release.</releaseNotes>
+    <copyright>Copyright 2020</copyright>
+    <tags>C# console .net output outputmanager</tags>
+  </metadata>
+</package>

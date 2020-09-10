@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "s4RFkQKRrczrEDN5KJ1xBChVy6AQUVLCPT4EuwOo7Hp/K0GTQ7dK0rPOpy6VZW3yVo8dnAGAu+OZjfTkxHcWHQ==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\OutputManager\\OutputManager\\OutputManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Matej\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Matej\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+D:\Projects\OutputManager\OutputManager\bin\Release\netstandard2.0\OutputManager.deps.json
+D:\Projects\OutputManager\OutputManager\bin\Release\netstandard2.0\OutputManager.dll
+D:\Projects\OutputManager\OutputManager\bin\Release\netstandard2.0\OutputManager.pdb
+D:\Projects\OutputManager\OutputManager\obj\Release\netstandard2.0\OutputManager.csprojAssemblyReference.cache
+D:\Projects\OutputManager\OutputManager\obj\Release\netstandard2.0\OutputManager.csproj.CoreCompileInputs.cache
+D:\Projects\OutputManager\OutputManager\obj\Release\netstandard2.0\OutputManager.AssemblyInfoInputs.cache
+D:\Projects\OutputManager\OutputManager\obj\Release\netstandard2.0\OutputManager.AssemblyInfo.cs
+D:\Projects\OutputManager\OutputManager\obj\Release\netstandard2.0\OutputManager.dll
+D:\Projects\OutputManager\OutputManager\obj\Release\netstandard2.0\OutputManager.pdb
