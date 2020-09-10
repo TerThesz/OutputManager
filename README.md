@@ -9,6 +9,7 @@ OutputManager is a simple library managing simple console output
 ###### 1- ConsoleOutput (non-static structure)
 
   ConsoleOutput.WriteLine(string message);
+  
     - Output:
     
 ```
