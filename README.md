@@ -1,12 +1,12 @@
-####OutputManager library for .Net####
+###### OutputManager library for .Net
 
 OutputManager is a simple library managing simple console output
 <br/>
 <br/>
 
-##What can it do?##
+## What can it do?
 
-#1- ConsoleOutput (non-static structure)#
+# 1- ConsoleOutput (non-static structure)
 
   ConsoleOutput.WriteLine(string message);
     - Output: 
